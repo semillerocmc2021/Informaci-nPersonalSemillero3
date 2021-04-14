@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "GITEV",
+	"modules": [
+		{
+			"moduleId": "GITEV",
+			"moduleName": "GITE",
+			"subModules": [
+				{
+					"subModuleId": "GITE2",
+					"subModuleName": "GITE2"
+				}
+			]
+		}
+	],
+	"projectName": "EjemploGit",
+	"subModuleId": "GITE2"
+}
