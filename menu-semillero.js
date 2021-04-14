@@ -34,7 +34,12 @@
 			"MNU_CT_CLIFORM": "Cliente Form Cristhian Tinoco",
 			"MNU_CRISTHIAN_TINOCO": "CRISTHIAN TINOCO",  
 			"MNU_PRODUCTO_CT": "INGRESAR PRODUCTO",
-			"MNU_LISTARPRODUCTO_CT": "LISTAR PRODUCTO"
+			"MNU_LISTARPRODUCTO_CT": "LISTAR PRODUCTO",
+			
+			"Formulario1 Luis Hamburger":"Formulario1 Luis Hamburger",
+			"Formularios Luis Hamburger":"Formularios Luis Hamburger",
+			"Formulario2 Luis Hamburger":"Formulario2 Luis Hamburger"
+			
 
 			
         }	
