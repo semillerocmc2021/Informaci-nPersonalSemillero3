@@ -60,7 +60,13 @@
 			"MNU_SMCMC":"Formularios Semillero",
 			"MNU_CREARPR_GSC":"Crear Producto GSC",
 			"MNU_LISTPRODS_GSC":"Listado de Productos GSC",
-			"MNU_GINGER_SIPION":"Formularios Ginger Sipion"
+			"MNU_GINGER_SIPION":"Formularios Ginger Sipion",
+			
+			"MNU_SMCMC":"Formulario semillero",
+	 		"MNU_AHC_INGRPROD":"Ingresar Productos",
+	 		"MNU_AHC_MPR":"Mostrar Productos",
+    		"ANDERSONHURTADO":"Formulario Anderson Hurtado",
+	 		"MNU_AHC_BUSCAREVA":"Buscar Cliente Eva"
 			
         }	
     }
