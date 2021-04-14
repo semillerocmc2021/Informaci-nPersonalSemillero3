@@ -85,6 +85,12 @@
 			"MNU_CREAR_PRODUCTO":"Ingresar Producto",
 			"MNU_GRID_PRODUCTOS":"Lista Productos"
 			
+			"MNU_LAC_BVDA":"Bienvenida Laura Ceron",
+			"MNU_SMCMC":"Formularios Semillero",
+			"MNU_LAC_PRO":"Calificaciones Laura Ceron",
+			"MNU_LAC_CAL":"Calculadora Laura Ceron"			
+			
+			
         }	
     }
 }
