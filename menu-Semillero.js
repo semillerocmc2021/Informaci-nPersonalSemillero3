@@ -38,7 +38,16 @@
 			
 			"Formulario1 Luis Hamburger":"Formulario1 Luis Hamburger",
 			"Formularios Luis Hamburger":"Formularios Luis Hamburger",
-			"Formulario2 Luis Hamburger":"Formulario2 Luis Hamburger"
+			"Formulario2 Luis Hamburger":"Formulario2 Luis Hamburger",
+			
+			"MNU_LHMM_BVDA":"Bienvenida Luis montoya",
+			"MNU_LHMM_EVA": "Calificacion Luis Montoya",
+			"MNU_LHMM_CAL":"Calculadora Luis Montoya",
+			"MNU_LHMM_BLICLIEN":"BLI CLIENTE LUIS MONTOYA",
+			"MNU_LHMM_FRBLI":"EXAMEN BLI LUIS MONTOYA",
+			"MNU_LHMM_Bus":"Buscar cliente luis monotya",
+			"MNU_LHMM_GRID":"grid luis montoya",
+			"MNU_LHMM_EVACLI":"Búsqueda Clientes luis montoya"
 			
 
 			
