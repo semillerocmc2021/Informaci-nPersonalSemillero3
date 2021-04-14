@@ -21,7 +21,7 @@
 			"MNU_CSSS_CALCU":"CalculadoraCarlosSoto",
 			"MNU_CSSS_Evaluacion2":"Evaluacion2CarlosSoto",
 			"MNU_CSSS_RegCliente" : "Registrar Cliente",
-			"MNU_CSSS_EVA4" : "Buscar clientes CSSS"
+			"MNU_CSSS_EVA4" : "Buscar clientes CSSS",
 			
 			"MNU_CT_BVDA": "Bienvenido Cristhian Tinoco",
 			"MNU_CT_EVALUACION": "Calificaciones Cristhian Tinoco",
