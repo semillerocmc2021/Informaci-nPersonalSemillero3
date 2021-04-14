@@ -16,12 +16,14 @@
 			"MNU_PGG_RegProd":"Registrar Producto PGG",
 			"MNU_PGG_GridProd":"Grid Productos PGG",
 			
-			"MNU_CSSS_BV":"BienvenidaCarlosSoto",
-			"MNU_CSSS_CAL":"CalificacionesCarlosSoto",
-			"MNU_CSSS_CALCU":"CalculadoraCarlosSoto",
-			"MNU_CSSS_Evaluacion2":"Evaluacion2CarlosSoto",
-			"MNU_CSSS_RegCliente" : "Registrar Cliente",
-			"MNU_CSSS_EVA4" : "Buscar clientes CSSS"
+			"CARLOSSOTO": "Formularios CARLOSSOTO",
+			"MNU_CSSS_AddCliente":"Ingresar Cliente CSSS",
+			"MNU_CSSS_BuscarCli":"Buscar Cliente CSSS",
+			"MNU_CSSS_Local":"Ingresar-Desactivar Local CSSS",
+			"MNU_CSSS_Querry":"CRUD Grid Cliente CSSS",
+			"MNU_CSSS_EVA4" : "Buscar clientes CSSS",
+			"MNU_CSSS_CRUDDesigner" : "Ingresar Producto CSSS",
+			"MNU_CSSS_VerProductos" : "CRUD Grid Prodcutos",
 			
 			"MNU_CT_BVDA": "Bienvenido Cristhian Tinoco",
 			"MNU_CT_EVALUACION": "Calificaciones Cristhian Tinoco",
@@ -47,9 +49,26 @@
 			"MNU_LHMM_FRBLI":"EXAMEN BLI LUIS MONTOYA",
 			"MNU_LHMM_Bus":"Buscar cliente luis monotya",
 			"MNU_LHMM_GRID":"grid luis montoya",
-			"MNU_LHMM_EVACLI":"Búsqueda Clientes luis montoya"
+			"MNU_LHMM_EVACLI":"Búsqueda Clientes luis montoya",
 			
-
+			"MNU_GSC_BVDA":"Bienvenido Ginger Sipion",
+			"MNU_GSC_CALIF":"Calificaciones Ginger Sipion",
+			"MNU_GSC_CALCULA":"Calculadora Ginger",
+			"MNU_CREARC_GSC":"Crear Cliente Ginger",
+			"MNU_CREARL_GSC":"Crear Local Ginger",
+			"MNU_BUSCARCL_GSC":"Buscar Cliente Ginger",
+			"MNU_RECUPERACL_GSC":"Recuperar Clientes Ginger",
+			"MNU_EVACLIENTES_GSC":"Busqueda de Clientes Ginger",
+			"MNU_SMCMC":"Formularios Semillero",
+			"MNU_CREARPR_GSC":"Crear Producto GSC",
+			"MNU_LISTPRODS_GSC":"Listado de Productos GSC",
+			"MNU_GINGER_SIPION":"Formularios Ginger Sipion",
+			
+			"MNU_SMCMC":"Formulario semillero",
+	 		"MNU_AHC_INGRPROD":"Ingresar Productos",
+	 		"MNU_AHC_MPR":"Mostrar Productos",
+    		"ANDERSONHURTADO":"Formulario Anderson Hurtado",
+	 		"MNU_AHC_BUSCAREVA":"Buscar Cliente Eva"
 			
         }	
     }
