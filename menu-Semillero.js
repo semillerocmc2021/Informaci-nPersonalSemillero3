@@ -22,6 +22,19 @@
 			"MNU_CSSS_Evaluacion2":"Evaluacion2CarlosSoto",
 			"MNU_CSSS_RegCliente" : "Registrar Cliente",
 			"MNU_CSSS_EVA4" : "Buscar clientes CSSS"
+			
+			"MNU_CT_BVDA": "Bienvenido Cristhian Tinoco",
+			"MNU_CT_EVALUACION": "Calificaciones Cristhian Tinoco",
+			"MNU_CT_CALC": "Calculadora Cristhian Tinoco",
+			"MNU_CT_EVAL2": "Evaluacion 2 Cristhian Tinoco",
+			"MNU_CT_EVALUACION3": "Evaluacion 3 Cristhian Tinoco",
+			"MNU_CT_BUSCARCLI": "Buscar Cliente Cristhian Tinoco",	
+			"MNU_CT_LISTACLI": "Lista Cliente Cristhian Tinoco",
+			"MNU_CT_BUSCLI": "Buscar Cliente",			
+			"MNU_CT_CLIFORM": "Cliente Form Cristhian Tinoco",
+			"MNU_CRISTHIAN_TINOCO": "CRISTHIAN TINOCO",  
+			"MNU_PRODUCTO_CT": "INGRESAR PRODUCTO",
+			"MNU_LISTARPRODUCTO_CT": "LISTAR PRODUCTO"
 
 			
         }	

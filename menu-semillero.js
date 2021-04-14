@@ -32,8 +32,7 @@
 			"MNU_CT_LISTACLI": "Lista Cliente Cristhian Tinoco",
 			"MNU_CT_BUSCLI": "Buscar Cliente",			
 			"MNU_CT_CLIFORM": "Cliente Form Cristhian Tinoco",
-			"MNU_CRISTHIAN_TINOCO": "CRISTHIAN TINOCO",              
-			"MNU_SMCMC": "Fomularios Semillero",
+			"MNU_CRISTHIAN_TINOCO": "CRISTHIAN TINOCO",  
 			"MNU_PRODUCTO_CT": "INGRESAR PRODUCTO",
 			"MNU_LISTARPRODUCTO_CT": "LISTAR PRODUCTO"
 
