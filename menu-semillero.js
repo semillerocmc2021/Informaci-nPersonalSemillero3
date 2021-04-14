@@ -47,9 +47,20 @@
 			"MNU_LHMM_FRBLI":"EXAMEN BLI LUIS MONTOYA",
 			"MNU_LHMM_Bus":"Buscar cliente luis monotya",
 			"MNU_LHMM_GRID":"grid luis montoya",
-			"MNU_LHMM_EVACLI":"Búsqueda Clientes luis montoya"
+			"MNU_LHMM_EVACLI":"Búsqueda Clientes luis montoya",
 			
-
+			"MNU_GSC_BVDA":"Bienvenido Ginger Sipion",
+			"MNU_GSC_CALIF":"Calificaciones Ginger Sipion",
+			"MNU_GSC_CALCULA":"Calculadora Ginger",
+			"MNU_CREARC_GSC":"Crear Cliente Ginger",
+			"MNU_CREARL_GSC":"Crear Local Ginger",
+			"MNU_BUSCARCL_GSC":"Buscar Cliente Ginger",
+			"MNU_RECUPERACL_GSC":"Recuperar Clientes Ginger",
+			"MNU_EVACLIENTES_GSC":"Busqueda de Clientes Ginger",
+			"MNU_SMCMC":"Formularios Semillero",
+			"MNU_CREARPR_GSC":"Crear Producto GSC",
+			"MNU_LISTPRODS_GSC":"Listado de Productos GSC",
+			"MNU_GINGER_SIPION":"Formularios Ginger Sipion"
 			
         }	
     }
