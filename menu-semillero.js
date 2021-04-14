@@ -1,7 +1,7 @@
 {
     "COMMONS": {
         "MENU.MNU_CSSS_BV":"BienvenidaCarlosSoto",
-		"MENU.MNU_SMCMC":"FormulariosSemillero",
+		"MENU.MNU_SMCMC":"FormulariosSemilleroSoto",
 		"MENU.MNU_CSSS_CAL":"CalificacionesCarlosSoto",
 		"MENU.MNU_CSSS_CALCU":"CalculadoraCarlosSoto",
 		"MENU.MNU_CSSS_Evaluacion2":"Evaluacion2CarlosSoto",
