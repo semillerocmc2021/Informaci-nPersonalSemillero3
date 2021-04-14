@@ -16,6 +16,7 @@
 			"MNU_PGG_RegProd":"Registrar Producto PGG",
 			"MNU_PGG_GridProd":"Grid Productos PGG",
 			
+<<<<<<< HEAD
 			"CARLOSSOTO": "Formularios CARLOSSOTO",
 			"MNU_CSSS_AddCliente":"Ingresar Cliente CSSS",
 			"MNU_CSSS_BuscarCli":"Buscar Cliente CSSS",
@@ -24,6 +25,14 @@
 			"MNU_CSSS_EVA4" : "Buscar clientes CSSS",
 			"MNU_CSSS_CRUDDesigner" : "Ingresar Producto CSSS",
 			"MNU_CSSS_VerProductos" : "CRUD Grid Prodcutos",
+=======
+			"MNU_CSSS_BV":"BienvenidaCarlosSoto",
+			"MNU_CSSS_CAL":"CalificacionesCarlosSoto",
+			"MNU_CSSS_CALCU":"CalculadoraCarlosSoto",
+			"MNU_CSSS_Evaluacion2":"Evaluacion2CarlosSoto",
+			"MNU_CSSS_RegCliente" : "Registrar Cliente",
+			"MNU_CSSS_EVA4" : "Buscar clientes CSSS",
+>>>>>>> 92c0d262c3b9b65675cef9ea405d82d2effc4ae1
 			
 			"MNU_CT_BVDA": "Bienvenido Cristhian Tinoco",
 			"MNU_CT_EVALUACION": "Calificaciones Cristhian Tinoco",
