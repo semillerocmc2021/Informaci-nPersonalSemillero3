@@ -68,7 +68,22 @@
 	 		"MNU_AHC_INGRPROD":"Ingresar Productos",
 	 		"MNU_AHC_MPR":"Mostrar Productos",
     		"ANDERSONHURTADO":"Formulario Anderson Hurtado",
-	 		"MNU_AHC_BUSCAREVA":"Buscar Cliente Eva"
+	 		"MNU_AHC_BUSCAREVA":"Buscar Cliente Eva",
+
+			"MNU_AAB_BVDA":"Bienvenido Alex Arcentales",
+			"MNU_SMCMC":"Formularios Semillero",
+			"MNU_EVA_CALIFICACIONES":"Calificaciones Alex Arcentales.",
+			"MNU_EVAl_CALCULADORA":"Calculadora Alex Arcentales",
+			"MNU_EVA2_AAB":"Evaluacion Alex Arcentales",
+			"MNU_EVALUACION": "Evaluacion2",
+			"MNU_CLIENTE_AAB":"Cliente Alex Arcentales",
+			"MNU_COMERCIAL_AAB":"Comercial Alex Arcentales",
+			"MNU_BUSCAR_CLI_AAB": "Buscar Cliente AAB",
+			"MNU_RETORNAR_CLI_AAB":"Consultar Clientes",
+			"MNU_BUSQUEDA_CLI_AAB":"Busqueda Clientes",
+			"MNU_ALEX_ARCENTALES":"Alex Arcentales",
+			"MNU_CREAR_PRODUCTO":"Ingresar Producto",
+			"MNU_GRID_PRODUCTOS":"Lista Productos"
 			
         }	
     }
