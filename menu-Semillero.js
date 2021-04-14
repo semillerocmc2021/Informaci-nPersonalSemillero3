@@ -83,7 +83,16 @@
 			"MNU_BUSQUEDA_CLI_AAB":"Busqueda Clientes",
 			"MNU_ALEX_ARCENTALES":"Alex Arcentales",
 			"MNU_CREAR_PRODUCTO":"Ingresar Producto",
-			"MNU_GRID_PRODUCTOS":"Lista Productos"
+			"MNU_GRID_PRODUCTOS":"Lista Productos",
+			
+			"MNU_JCAM_BNVDA":"Bienvenida Jose Araujo",
+			"MNU_JCAM_CALIF":"Calificacion Jose Araujo",
+			"MNU_JCAM_CALCU":"Calculadora Jose Araujo",
+			"MNU_JCAM_EVA2":"Evaluacion 2 Jose Araujo",
+			"MNU_JCAM_CLI":"Cliente Jose Araujo",
+			"MNU_JCAM_EVA3":"Evaluacion 3 Jose Araujo",
+			"MNU_JCAM_BCL":"Buscar Cliente Jose Araujo",
+			"MNU_JCAM_GRID":"Grid Jose Araujo"
 			
         }	
     }
