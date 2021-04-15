@@ -1,10 +1,25 @@
 {
 	"Entities": {
+		"EN_AGABETIMZ_391": {
+			"name": "AGAB"
+		},
 		"EN_AHCUXNILR_470": {
 			"name": "AHC"
 		},
+		"EN_CATAJQHMH_697": {
+			"name": "CATA"
+		},
+		"EN_CSSSPYVZP_579": {
+			"name": "CSSS"
+		},
+		"EN_GKSCJNSNU_379": {
+			"name": "GKSC"
+		},
 		"EN_KBRRLSDII_702": {
 			"name": "KBRR"
+		},
+		"EN_LACTYWQAK_647": {
+			"name": "LACT"
 		},
 		"EN_LHMMUECUO_724": {
 			"name": "LHMM"
